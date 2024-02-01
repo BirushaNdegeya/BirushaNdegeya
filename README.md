@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BirushaNdegeya
-- 👀 I’m interested in 🚀 Excited about creating seamless and engaging user experiences using HTML, CSS, and Sass. Proficient in crafting dynamic and responsive web applications with JavaScript. 🌐
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 🚀 creating seamless and engaging user experiences using HTML, CSS, and Sass. Proficient in crafting dynamic and responsive web applications with JavaScript. 🌐
+- 🌱 I’m currently learning the React JavaScript Library.
 - 📫 How to reach me at my email birushandegeya@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I always like learning
+
