@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=BirushaNdegeya&icon=5&color=3)](https://visitcount.itsvg.in)
 
-# Hello, 👋 I’m Birusha !
+# Hello, 👋 I’m Birusha!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BirushaNdegeyaEspoir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BirushaNdegeya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birusha-ndegeya-243b032a9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/BirushaNdegeya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/BNdegeya62741) 
 
