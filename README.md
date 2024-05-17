@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=BirushaNdegeya&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
-# Hi! I’m Birusha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there! I’m Birusha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
 <p align="center">
